@@ -5,9 +5,9 @@ import {schemaTypes} from './schemaTypes'
 
 export default defineConfig({
   name: 'default',
-  title: 'test',
+  title: 'ingstagram_backend',
 
-  projectId: 'z4pme2o2',
+  projectId: 'salwf9qy',
   dataset: 'production',
 
   plugins: [structureTool(), visionTool()],
